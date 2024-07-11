@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+pptx
+torch
+torchvision
+tqdm
+pillow
+numpy
